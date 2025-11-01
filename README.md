@@ -3,8 +3,9 @@
 **arshakkarami/Arshakkarami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
     # ARSHAK
-
+    
      ## 🎓 Student
+     
               AAA                                                  hhhhhhh                               kkkkkkkk                kkkkkkkk                                                                                        iiii  
              A:::A                                                 h:::::h                               k::::::k                k::::::k                                                                                       i::::i 
             A:::::A                                                h:::::h                               k::::::k                k::::::k                                                                                        iiii  
@@ -17,8 +18,6 @@
      A:::::AAAAAAAAA:::::A      r:::::r     rrrrrrr   s::::::s      h:::::h     h:::::h  aa::::::::::::a  k:::::::::::k           k:::::::::::k     aa::::::::::::a r:::::r     rrrrrrraa::::::::::::a m::::m   m::::m   m::::m i::::i 
      A:::::::::::::::::::::A     r:::::r                  s::::::s   h:::::h     h:::::h a::::aaaa::::::a  k:::::::::::k           k:::::::::::k    a::::aaaa::::::a r:::::r           a::::aaaa::::::a m::::m   m::::m   m::::m i::::i 
     A:::::AAAAAAAAAAAAA:::::A    r:::::r            ssssss   s:::::s h:::::h     h:::::ha::::a    a:::::a  k::::::k:::::k          k::::::k:::::k  a::::a    a:::::a r:::::r          a::::a    a:::::a m::::m   m::::m   m::::m i::::i 
-
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
     📍 **Toronto, Canada •**
