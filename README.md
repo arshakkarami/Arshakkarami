@@ -1,234 +1,323 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SYSTEM%20INITIALIZING&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38)
+
 ```
-███████████████████████████████████████████████████████████████████████████████
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║     ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██████╗  ██████╗ ████████╗║
+║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝║
+║    ██║     ██║   ██║██████╔╝█████╗      ██████╔╝██████╔╝██║   ██║   ██║   ║
+║    ██║     ██║   ██║██╔══██╗██╔══╝      ██╔══██╗██╔══██╗██║   ██║   ██║   ║
+║    ╚██████╗╚██████╔╝██║  ██║███████╗    ██████╔╝██║  ██║╚██████╔╝   ██║   ║
+║     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ║
+║                                                                            ║
+║            ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗          ║
+║            ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║          ║
+║            ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║          ║
+║            ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║          ║
+║            ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║          ║
+║            ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝          ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
-    ███████╗ ██████╗  ███████╗ ██╗  ██╗  ███████╗ ██╗  ██╗
-    ██╔══██║ ██╔══██╗ ██╔════╝ ██║  ██║  ██╔══██║ ██║ ██╔╝
-    ███████║ ██████╔╝ ███████╗ ███████║  ███████║ █████╔╝ 
-    ██╔══██║ ██╔══██╗ ╚════██║ ██╔══██║  ██╔══██║ ██╔═██╗ 
-    ██║  ██║ ██║  ██║ ███████║ ██║  ██║  ██║  ██║ ██║  ██╗
-    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
-
-    ██╗  ██╗  ███████╗ ██████╗   ███████╗ ███╗   ███╗ ██╗
-    ██║ ██╔╝  ██╔══██║ ██╔══██╗  ██╔══██║ ████╗ ████║ ██║
-    █████╔╝   ███████║ ██████╔╝  ███████║ ██╔████╔██║ ██║
-    ██╔═██╗   ██╔══██║ ██╔══██╗  ██╔══██║ ██║╚██╔╝██║ ██║
-    ██║  ██╗  ██║  ██║ ██║  ██║  ██║  ██║ ██║ ╚═╝ ██║ ██║
-    ╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝
-
-███████████████████████████████████████████████████████████████████████████████
+              ARSHAK KARAMI :: NEURAL INTERFACE v4.2.0
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Web+Developer+%F0%9F%92%BB;Python+Enthusiast+%F0%9F%90%8D;Creative+Problem+Solver+%F0%9F%8E%A8;Building+The+Future%2C+One+Commit+At+A+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E%3E+WEB+DEVELOPER+%7C%7C+PYTHON+ARCHITECT;%3E%3E+BUILDING+SYSTEMS+%7C%7C+SOLVING+PROBLEMS;%3E%3E+STATUS%3A+READY+FOR+DEPLOYMENT" alt="Typing Animation" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=arshakkarami&color=dc143c&style=for-the-badge&label=SYSTEM+ACCESS)
-[![GitHub followers](https://img.shields.io/github/followers/arshakkarami?style=for-the-badge&color=dc143c&labelColor=1a1a1a&label=NETWORK+NODES)](https://github.com/arshakkarami?tab=followers)
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
----
-
 ```bash
-┌──(root㉿arshak-system)-[~]
-└─$ ./initialize_profile.sh
-
-[████████████████████████████████████████] 100%
-[✓] SYSTEM BOOT COMPLETE
-[✓] PROFILE LOADED: arshak_karami.dev
-[✓] STATUS: READY FOR COLLABORATION
+root@arshak-core:~# systemctl status developer.service
+```
+```diff
++ ● developer.service - Neural Development Interface
++    Loaded: active (running)
++    Active: online since birth
++    Status: "Transforming algorithms into reality"
+     ├─ Role: Web Developer
+     ├─ Location: Earth.coordinates.TBD
+     ├─ Mission: Build • Learn • Create
++    └─ Mode: COLLABORATION_READY
 ```
 
 <div align="center">
 
-## ⚡ SYSTEM INFORMATION
+## ⚙️ NEURAL ARCHITECTURE
+
+```
+        ┌─────────────────────────────────────────────────────┐
+        │          COGNITIVE PROCESSING UNITS                 │
+        └─────────────────────────────────────────────────────┘
+                            ╱│╲
+                           ╱ │ ╲
+                          ╱  │  ╲
+                         ╱   │   ╲
+                        ╱    │    ╲
+                       ╱     │     ╲
+                      ╱      │      ╲
+        ┌────────────┐   ┌───────┐   ┌────────────┐
+        │   PYTHON   │───│ CORE  │───│ JAVASCRIPT │
+        │   ████████ │   │ENGINE │   │  ███████   │
+        └────────────┘   └───────┘   └────────────┘
+              │              │              │
+              ├──────────────┼──────────────┤
+              │              │              │
+        ┌─────▼────┐    ┌────▼───┐    ┌────▼─────┐
+        │  HTML5   │    │  CSS3  │    │   GIT    │
+        │  ██████  │    │ █████  │    │  █████   │
+        └──────────┘    └────────┘    └──────────┘
+```
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
+
+</div>
+
+```python
+# Neural Network Configuration
+class ArshakCore:
+    def __init__(self):
+        self.processors = {
+            'Python': {'efficiency': 95, 'status': 'optimal'},
+            'JavaScript': {'efficiency': 80, 'status': 'learning'},
+            'HTML/CSS': {'efficiency': 90, 'status': 'active'},
+            'Git': {'efficiency': 70, 'status': 'improving'}
+        }
+        
+    def get_system_state(self):
+        return {
+            'mode': 'DEVELOPMENT',
+            'learning_rate': 'HIGH',
+            'creativity_index': 'MAXIMUM',
+            'collaboration': 'ENABLED'
+        }
+
+>>> core = ArshakCore()
+>>> core.get_system_state()
+{'mode': 'DEVELOPMENT', 'learning_rate': 'HIGH', ...}
+```
+
+<div align="center">
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## 📡 SYSTEM DIAGNOSTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&ring_color=dc143c" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arshakkarami&theme=radical&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=arshakkarami&theme=react-dark&hide_border=true&bg_color=0d1117&color=dc143c&line=dc143c&point=c9d1d9&area=true" alt="Activity Graph" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=arshakkarami&color=dc143c&style=for-the-badge&label=SYSTEM+ACCESS+COUNT)
+
+</div>
+
+```bash
+root@arshak-core:~# ls -la /projects/active/
+```
+
+<div align="center">
+
+## 🔷 ACTIVE MODULES
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                        PROJECT MATRIX                              ║
+╠═══════════╦═══════════════════════════╦══════════════╦════════════╣
+║  MODULE   ║      DESCRIPTION          ║   STACK      ║   STATUS   ║
+╠═══════════╬═══════════════════════════╬══════════════╬════════════╣
+║ Portfolio ║ Web Interface System      ║ HTML/CSS/JS  ║ ▰▰▰▰ LIVE  ║
+║ Game-UI   ║ Interactive Browser App   ║ Vanilla JS   ║ ▰▰▰▰ DONE  ║
+║ Task-Mgr  ║ Management Dashboard      ║ HTML/CSS/JS  ║ ▰▰▰▱ 85%   ║
+║ PyScripts ║ Automation Framework      ║ Python       ║ ▰▰▱▱ GROW  ║
+╚═══════════╩═══════════════════════════╩══════════════╩════════════╝
+```
 
 </div>
 
 ```javascript
-const developer = {
-    username: "arshak_karami",
-    role: "Web_Developer",
-    location: "Earth_🌍",
-    mission: "Building_elegant_web_solutions",
-    status: "Open_to_opportunities",
-    
-    execute: function() {
-        return "Transforming ideas into code, one commit at a time";
+// Project Deployment Matrix
+const deploymentGrid = {
+    '🌐 Portfolio': {
+        description: 'Personal web interface',
+        technology: ['HTML5', 'CSS3', 'JavaScript'],
+        deployment: 'LIVE',
+        dimensions: { x: 100, y: 100, z: 100 }
+    },
+    '🎮 Interactive-Game': {
+        description: 'Browser-based interactive system',
+        technology: ['Vanilla JavaScript'],
+        deployment: 'COMPLETE',
+        dimensions: { x: 100, y: 100, z: 100 }
+    },
+    '📝 Task-Manager': {
+        description: 'Productivity optimization tool',
+        technology: ['HTML', 'CSS', 'JavaScript'],
+        deployment: 'ACTIVE',
+        dimensions: { x: 85, y: 85, z: 85 }
+    },
+    '🐍 Python-Automation': {
+        description: 'Script collection & utilities',
+        technology: ['Python'],
+        deployment: 'ONGOING',
+        dimensions: { x: 70, y: 70, z: 100 }
     }
 };
 
-> developer.execute()
-→ "Transforming ideas into code, one commit at a time"
-```
-
----
-
-<div align="center">
-
-## 🔧 TECHNOLOGY MATRIX
-
-### PRIMARY LANGUAGES
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-
-### SYSTEMS & TOOLS
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 PERFORMANCE METRICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshakkarami&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
----
-
-```bash
-┌──(root㉿arshak-system)-[~/projects]
-└─$ ls -la ./featured_projects/
+console.log('> Rendering 3D project space...');
+// Output: All modules operational
 ```
 
 <div align="center">
 
-## 🚀 ACTIVE PROJECTS
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-| PROJECT | DESCRIPTION | STACK | STATUS |
-|---------|-------------|-------|--------|
-| **🌐 Portfolio** | Personal website and project showcase | HTML, CSS, JS | ![Status](https://img.shields.io/badge/LIVE-00FF00?style=flat-square) |
-| **🎮 Interactive Game** | Browser-based game with vanilla JavaScript | HTML, CSS, JS | ![Status](https://img.shields.io/badge/COMPLETE-00FF00?style=flat-square) |
-| **📝 To-Do Manager** | Elegant task management application | HTML, CSS, JS | ![Status](https://img.shields.io/badge/ACTIVE-00FF00?style=flat-square) |
-| **🐍 Python Scripts** | Automation and utility script collection | Python | ![Status](https://img.shields.io/badge/ONGOING-FFFF00?style=flat-square) |
+## 🧠 LEARNING PROTOCOLS
+
+```
+        ╔═══════════════════════════════════════════════════╗
+        ║        NEURAL LEARNING PATHWAYS : 2024           ║
+        ╠═══════════════════════════════════════════════════╣
+        ║                                                   ║
+        ║  ┌─ LEVEL 1 ────────────────────────────────┐   ║
+        ║  │  • Master JavaScript Fundamentals         │   ║
+        ║  │  • Build 10+ Portfolio Projects           │   ║
+        ║  │  • Responsive Web Design Mastery          │   ║
+        ║  └───────────────────────────────────────────┘   ║
+        ║         ║                                         ║
+        ║         ▼                                         ║
+        ║  ┌─ LEVEL 2 ────────────────────────────────┐   ║
+        ║  │  • React.js Core Concepts                 │   ║
+        ║  │  • Open Source Contributions              │   ║
+        ║  │  • Advanced Python Automation             │   ║
+        ║  └───────────────────────────────────────────┘   ║
+        ║         ║                                         ║
+        ║         ▼                                         ║
+        ║  ┌─ LEVEL 3 ────────────────────────────────┐   ║
+        ║  │  • Full-Stack Development                 │   ║
+        ║  │  • Backend Architecture                   │   ║
+        ║  │  • Mobile Application Development         │   ║
+        ║  └───────────────────────────────────────────┘   ║
+        ║                                                   ║
+        ╚═══════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=arshakkarami&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9&layout=compact" alt="Coding Activity" />
 
 </div>
-
----
 
 ```python
-┌──(root㉿arshak-system)-[~/learning]
-└─$ cat current_focus.py
+#!/usr/bin/env python3
+# Daily Execution Protocol
 
-class LearningPath:
+class DailyRoutine:
     def __init__(self):
-        self.current_focus = [
-            "Advanced JavaScript & ES6+",
-            "Responsive Web Design",
-            "Python Automation",
-            "Git & Version Control"
-        ]
-        
-        self.objectives_2024 = {
-            "short_term": [
-                "Master JavaScript fundamentals",
-                "Build 10 portfolio projects",
-                "Contribute to open source",
-                "Learn React.js basics"
-            ],
-            "long_term": [
-                "Full-stack development",
-                "Backend technologies",
-                "Mobile app development"
-            ]
+        self.schedule = {
+            '06:00': 'System boot + Coffee intake',
+            '09:00': 'Code sprint :: Build + Debug',
+            '14:00': 'Learning module activation',
+            '18:00': 'Project development cycle',
+            '22:00': 'Documentation + Optimization',
+            '23:59': 'Commit + Push + Sleep'
         }
+        
+    def execute(self):
+        print('[EXECUTING] Daily development protocol...')
+        for time, task in self.schedule.items():
+            print(f'  [{time}] {task}')
+        print('[SUCCESS] Routine complete. Growth: +1')
+
+routine = DailyRoutine()
+routine.execute()
+```
+
+<div align="center">
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## 🎯 ACHIEVEMENT REGISTRY
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                      MILESTONE DATABASE                           ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   [✓] 100+ COMMITS DEPLOYED                                       ║
+║   [✓] ACTIVE DEVELOPMENT STREAK                                   ║
+║   [✓] MULTIPLE PRODUCTION SYSTEMS                                 ║
+║   [✓] CONTINUOUS LEARNING MODE                                    ║
+║   [✓] OPEN SOURCE READY                                           ║
+║   [▰▰▰▱] SKILL MATRIX EXPANDING                                   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+root@arshak-core:~# cat /etc/philosophy.conf
+```
+```yaml
+core_principles:
+  - "The only way to learn a new programming language is by writing programs in it."
+    author: Dennis Ritchie
     
-    def get_status(self):
-        return "Growth mode: ACTIVE | Learning: CONTINUOUS"
+  - "First, solve the problem. Then, write the code."
+    author: John Johnson
+    
+  - "Code is like humor. When you have to explain it, it's bad."
+    author: Cory House
 
-> learning = LearningPath()
-> learning.get_status()
-→ "Growth mode: ACTIVE | Learning: CONTINUOUS"
+system_motto: "Building the future, one algorithm at a time"
+optimization_level: MAXIMUM
+collaboration_mode: ENABLED
 ```
-
----
 
 <div align="center">
 
-## 💻 CODING ACTIVITY
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## 📡 NETWORK INTERFACE
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    WEEKLY DEVELOPMENT STATS                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║   Python Projects      ████████████████░░░░  80%             ║
-║   JavaScript           ██████████████░░░░░░  70%             ║
-║   HTML/CSS             ███████████████████░  95%             ║
-║   Learning New Tech    ████████████████████  100%            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                    CONNECTION PROTOCOLS                      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshakkarami&theme=redical&hide_border=true&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF" alt="Contribution Graph" />
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/arshakkarami)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/arshakkarami)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/arshakkarami)
+[![Email](https://img.shields.io/badge/EMAIL_PROTOCOL-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@arshakkarami.dev)
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
----
-
 ```bash
-┌──(root㉿arshak-system)-[~/achievements]
-└─$ cat milestones.log
-
-[✓] 100+ Commits Pushed
-[✓] Active Daily Streak
-[✓] Multiple Live Projects
-[✓] Continuous Learning Mode
-[✓] Open Source Ready
+root@arshak-core:~# shutdown -h now "System ready for collaboration"
 ```
 
----
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║           SYSTEM STATUS: ONLINE  |  MODE: COLLABORATION            ║
+║                                                                    ║
+║              NEURAL CORE: STABLE  |  READY: TRUE                   ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 
-<div align="center">
-
-## 🌐 NETWORK CONNECTIONS
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshakkarami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshakkarami)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arshakkarami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arshakkarami.dev)
-
-</div>
-
----
-
-```bash
-┌──(root㉿arshak-system)-[~]
-└─$ echo $PHILOSOPHY
-
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "The only way to learn a new programming language            ║
-║         is by writing programs in it."                        ║
-║                    — Dennis Ritchie                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+                    >>> AWAITING CONNECTION <<<
 ```
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS: ONLINE | MODE: COLLABORATION | READY: TRUE  │
-└─────────────────────────────────────────────────────────────┘
-```
+**⚡ CORE MAINTAINED BY [ARSHAK KARAMI](https://github.com/arshakkarami) ⚡**
 
-**⭐ MAINTAINED BY [ARSHAK KARAMI](https://github.com/arshakkarami)**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting&fontSize=20&fontColor=fff&animation=twinkling)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANK+YOU+FOR+ACCESSING+THIS+SYSTEM&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=70)
 
 </div>
