@@ -1,58 +1,48 @@
-# Hi, I'm Arshak 👋
+# Hi there, I'm Arshack! 👋
 
-I'm a high school student in Canada interested in computer science. I'm still early in my programming journey — learning as I go.
-
-<br>
-
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-- **Python** — my main language. I use it for small scripts and beginner projects.
-- **HTML** — just starting out. Learning the basics of web pages.
-- **Git & GitHub** — still getting comfortable with version control.
-
-<br>
-
-## Projects
-
-| Project | Description |
-|--------|-------------|
-| [Project Name](YOUR_LINK) | A simple Python calculator |
-| [Project Name](YOUR_LINK) | A text-based guessing game |
-| [Project Name](YOUR_LINK) | A basic to-do list script |
-
-> These are beginner projects. I'm working on getting better.
-
-<br>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=tokyonight&hide_border=true)
-
-<br>
-
-## Goals
-
-- Get comfortable with Python
-- Learn more HTML and CSS
-- Build more projects and put them on GitHub
-- Keep improving — one step at a time
-
-<br>
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshak-karami-a67483282)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br>
+### 🇨🇦 High School Developer | Python & Web Enthusiast
+I'm a student based in Canada, passionate about computer science and constantly looking for new things to build. **Learning Mode: ALWAYS ON.** 🚀
 
 ---
 
-*Still learning. Always improving.*
+### ⚡ Skills & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Learning** | CSS, Flask, Data Structures |
+
+---
+
+### 🚀 Projects In Progress
+
+* **Calculator** 🔢 - A clean, simple Python-based calculator.
+* **Guessing Game** 🎮 - A fun text-based challenge.
+* **To-Do Script** ✅ - Helping me stay organized, one line of code at a time.
+
+---
+
+### 📊 GitHub Stats
+
+![Arshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=radical)
+
+---
+
+### 🎯 My Goals for 2026
+
+- [ ] Master **CSS Flexbox & Grid**
+- [ ] Build my first **Full-stack web app**
+- [ ] Contribute to an **Open Source** project
+- [ ] Keep the **GitHub Green Square** streak alive!
+
+---
+
+### 📬 Let's Connect
+
+* 🔭 I’m currently working on improving my Python logic.
+* 📫 How to reach me: `Still loading...` (Update this with your email or social!)
+
+---
+*“Still learning, still building — trying to get better every day.”*
