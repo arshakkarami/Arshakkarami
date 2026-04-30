@@ -1,5 +1,5 @@
 # Hi, I'm Arshak 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Arshak%20EIDI&fontSize=75&color=0:0d1117,50:1a0533,100:0d1117&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=Neural%20Architect%20%C3%97%20ML%20Engineer%20%C3%97%20Cloud%20Virtuoso&descAlignY=62&descSize=16&descColor=6e40c9&stroke=3d1a6e&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Arshak%20Karami&fontSize=75&color=0:0d1117,50:1a0533,100:0d1117&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=Neural%20Architect%20%C3%97%20ML%20Engineer%20%C3%97%20Cloud%20Virtuoso&descAlignY=62&descSize=16&descColor=6e40c9&stroke=3d1a6e&strokeWidth=1" width="100%"/>
 
 I'm a high school student in Canada interested in computer science. I'm still early in my programming journey — learning as I go.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=400&color=00FF41&center=true&width=680&lines=Connecting+to+Arshak_karami%40github.com...;Authenticating+via+SSH-2.0...;Access+granted.+Welcome+back%2C+Nikan.)](https://git.io/typing-svg)
