@@ -1,42 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00d4ff&height=200&section=header&text=ARSHACK%20|%20DEV&fontSize=80&animation=twinkling&desc=HIGH%20SCHOOL%20DEVELOPER%20|%20CANADA%20🇨🇦&descAlignY=70&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=ARSHACK%20|%20DEV&fontSize=70&animation=fadeIn&fontAlignY=40&desc=HIGH%20SCHOOL%20DEVELOPER%20🚀&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 ## 💻 About Me
-<p align="left">
-<img src="https://img.shields.io/badge/-I'm%20a%20high%20school%20student%20in%20Canada%20interested%20in%20computer%20science.-00d4ff?style=flat-square&logo=github&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/-Still%20learning,%20still%20building%20—%20trying%20to%20get%20better%20every%20day.-ff00ea?style=flat-square" />
-</p>
+> **I'm a high school student in Canada interested in computer science.**
+> 
+> **Still learning, still building — trying to get better every day.**
+
+---
 
 ## ⚡ Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python%20→%20small%20scripts%20&%20beginner%20projects-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/HTML%20→%20learning%20web%20basics-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Git%20→%20still%20figuring%20it%20out-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Skill | Status |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | **small scripts & beginner projects** |
+| <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | **learning web basics** |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | **still figuring it out (like everyone else at first)** |
+
+---
 
 ## 🚀 Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🔢 **Calculator** | Simple Python calculator | `Python` |
-| 🎲 **Guessing Game** | Text-based game | `Python` |
-| 📝 **To-Do Script** | Basic task manager | `Python` |
+| **Calculator** | Simple Python calculator | `Python` |
+| **Guessing Game** | Text-based game | `Python` |
+| **To-Do Script** | Basic task manager | `Python` |
+
+---
 
 ## 📊 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🎯 Goals
-- [x] Get better at Python
-- [ ] Learn HTML & CSS properly
-- [ ] Build real projects
-- [ ] Stay consistent
+* [ ] **Get better at Python**
+* [ ] **Learn HTML & CSS properly**
+* [ ] **Build real projects**
+* [ ] **Stay consistent**
+
+---
 
 ## 📬 Contact
 <p align="left">
-<img src="https://img.shields.io/badge/Status-Still%20loading...-00ff88?style=for-the-badge&logo=codepen" />
+  <img src="https://img.shields.io/badge/Status-still%20loading...-00d4ff?style=for-the-badge&logo=fluent&logoColor=white" />
 </p>
 
 <p align="center">
