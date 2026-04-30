@@ -1,6 +1,7 @@
 # Hi, I'm Arshak 👋
 
 I'm a high school student in Canada interested in computer science. I'm still early in my programming journey — learning as I go.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=400&color=00FF41&center=true&width=680&lines=Connecting+to+Arshak_karami%40github.com...;Authenticating+via+SSH-2.0...;Access+granted.+Welcome+back%2C+Nikan.)](https://git.io/typing-svg)
 
 <br>
 
