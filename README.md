@@ -1,59 +1,59 @@
-<div align="center">
+# Hi, I'm Arshak 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=ARSHACK&fontSize=75&color=0:0d1117,50:005f73,100:0d1117&fontColor=94D2BD&animation=fadeIn&fontAlignY=42&desc=High%20School%20Developer%20%7C%20Python%20%26%20Web%20Student&descAlignY=62&descSize=16&descColor=CAFEFE&stroke=005f73&strokeWidth=1" width="100%"/>
+I'm a high school student in Canada interested in computer science. I'm still early in my programming journey — learning as I go.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=94D2BD&center=true&width=600&lines=System.init(%22Learning_Mode%22);Access+granted+to+arshack%40github;Building+the+future%2C+one+script+at+a+time.)](https://git.io/typing-svg)
+<br>
 
-<table width="100%">
-<tr>
-<td bgcolor="#0d1117">
-<br/>
-<div align="center">
+## Skills
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   ▓   arshack@github — SSH-2.0 session established                ┃
-┃   ▓   Last login: Today  ·  Canada  ·  EST (UTC-5)  ·  ONLINE     ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
+- **Python** — my main language. I use it for small scripts and beginner projects.
+- **HTML** — just starting out. Learning the basics of web pages.
+- **Git & GitHub** — still getting comfortable with version control.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-```python
-# developer_status.py
+## Projects
 
-user     = "Arshack"
-level    = "High School Student"
-location = "Canada"
+| Project | Description |
+|--------|-------------|
+| [Project Name](YOUR_LINK) | A simple Python calculator |
+| [Project Name](YOUR_LINK) | A text-based guessing game |
+| [Project Name](YOUR_LINK) | A basic to-do list script |
 
-skills   = ["Python", "HTML", 
-            "Git", "VS Code"]
+> These are beginner projects. I'm working on getting better.
 
-learning = ["CSS", "Web Design",
-            "Logic & Algorithms"]
+<br>
 
-status   = "Building & Learning"
-┌──────────────────────────────────┐
-│  $ ls -la projects/              │
-├──────────────────────────────────┤
-│                                  │
-│  > Calculator.py                 │
-│  > Guessing_Game.py              │
-│  > ToDo_Script.py                │
-│                                  │
-├──────────────────────────────────┤
-│  $ cat goals.txt                 │
-├──────────────────────────────────┤
-│  - Master Python Logic           │
-│  - Learn HTML & CSS              │
-│  - Stay Consistent               │
-└──────────────────────────────────┘
-// stack_and_tools
+## GitHub Stats
 
-// network_handshake
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=tokyonight&hide_border=true)
 
+<br>
 
-arshack@github:~$ █
+## Goals
+
+- Get comfortable with Python
+- Learn more HTML and CSS
+- Build more projects and put them on GitHub
+- Keep improving — one step at a time
+
+<br>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshak-karami-a67483282)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+---
+
+*Still learning. Always improving.*
+
