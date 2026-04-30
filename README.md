@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=py,go&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py=8&theme=dark"/>
 
 
 
