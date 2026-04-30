@@ -36,7 +36,7 @@ I'm a high school student in Canada interested in computer science. I'm still ea
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://skillicons.dev/icons?i=python,html,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github&theme=dark"/>
 <br>
 
 ## Goals
