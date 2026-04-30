@@ -1,49 +1,50 @@
-<div align="center">
-
-# ⚡ ARSHACK
-### 🇨🇦 HIGH SCHOOL DEVELOPER
-
-<img src="https://img.shields.io/badge/Learning%20Mode-ON-00ff88?style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ARSHACK+%7C+DEV;HIGH+SCHOOL+DEVELOPER;CANADA+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💻 ABOUT ME
-`I'm a high school student in Canada interested in computer science.`
-`Still learning, still building — trying to get better every day.`
+### 💻 About Me
+* 🎓 I'm a high school student in Canada interested in computer science.
+* 🌱 Still learning, still building — trying to get better every day.
 
 ---
 
-### 🛠️ TECH STACK
-**PYTHON** 🐍 `small scripts & beginner projects`
-**HTML** 🌐 `learning web basics`
-**GIT** ⚙️ `still figuring it out (like everyone else at first)`
+### ⚡ Skills
+* **Python** → small scripts & beginner projects
+* **HTML** → learning web basics
+* **Git** → still figuring it out (like everyone else at first)
 
 ---
 
-### 🚀 PROJECTS
-| **Project** | **Description** | **Tech** |
+### 🚀 Projects
+| Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🔢 Calculator | Simple Python calculator | `Python` |
-| 🎲 Guessing Game | Text-based game | `Python` |
-| 📝 To-Do Script | Basic task manager | `Python` |
+| 🔢 **Calculator** | Simple Python calculator | `Python` |
+| 🎲 **Guessing Game** | Text-based game | `Python` |
+| 📝 **To-Do Script** | Basic task manager | `Python` |
 
 ---
 
-### 📊 STATS
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=vision-ff&hide_border=true" />
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=vision-ff&hide_border=true" />
+### 📊 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 🎯 GOALS
-`[✔] Get better at Python`
-`[ ] Learn HTML & CSS properly`
-`[ ] Build real projects`
-`[ ] Stay consistent`
+### 🎯 Goals
+* [ ] Get better at Python
+* [ ] Learn HTML & CSS properly
+* [ ] Build real projects
+* [ ] Stay consistent
 
 ---
 
-### 📬 CONTACT
-`status: still loading...`
+### 📬 Contact
+* 📨 **Status:** *still loading...*
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshakkarami&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" />
+</p>
