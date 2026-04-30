@@ -1,5 +1,4 @@
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=python,html,git,github&theme=dark"/>
 
 # Hi, I'm Arshak 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Arshak%20Karami&fontSize=75&color=0:0d1117,50:1a0533,100:0d1117&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=&descAlignY=62&descSize=16&descColor=6e40c9&stroke=3d1a6e&strokeWidth=1" width="100%"/>
