@@ -1,59 +1,35 @@
-# 🚀 Hello World, I'm Arshack!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=ARSHACK%20|%20DEV&fontSize=70&animation=fadeIn&fontAlignY=40&desc=HIGH%20SCHOOL%20DEVELOPER%20🚀&descAlignY=60&descSize=20" />
+</p>
 
-### 🎓 High School Developer | 🇨🇦 Based in Canada
-> "Building the future, one syntax error at a time."
+## ⚡ About Me
+<table border="0">
+ <tr>
+  <td width="60%">
+    <p>👋 <b>Hi! I'm Arshack</b></p>
+    <p>A high school developer from 🇨🇦 <b>Canada</b>. I love building logical engines with Python and crafting clean structures with HTML.</p>
+    <p>🛠️ <b>Current Focus:</b> Mastering Python & Advanced CSS</p>
+  </td>
+  <td width="40%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=vision-ff&hide_border=true" />
+  </td>
+ </tr>
+</table>
 
----
-
-### 💻 About Me
-من یک دانش‌آموز علاقه‌مند به توسعه‌دهندگی هستم که در حال حاضر در دنیای وسیع علوم کامپیوتر کاوش می‌کنم. عاشق تبدیل منطق به کد هستم و تمرکزم روی یادگیری عمیق وب و اتوماسیون است.
-
-* 🔭 **تمرکز فعلی:** ارتقای سطح منطق در پایتون.
-* 🌱 **در حال یادگیری:** ساختار پیشرفته HTML و استایل‌دهی با CSS.
-* ⚡ **نکته جالب:** در حال جنگ با Merge Conflict‌های گیت (و معمولاً پیروز میدان!).
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **🔢 Calculator** | یک موتور منطقی ساده و کاربردی برای محاسبات ریاضی | `Python` |
-| **🎲 Guessing Game** | بازی تعاملی متنی با سطوح دشواری مختلف | `Python` |
-| **📝 To-Do Script** | مدیریت کارهای روزانه از طریق خط فرمان | `Python` |
-
----
-
-### 📊 My GitHub Journey
-
+## 🚀 Skills & Tech
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=tokyonight" alt="Arshack's GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00d4ff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff00ea" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00ff88" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=vision-ff&hide_border=true&count_private=true" />
 </p>
 
 ---
 
-### 🎯 2024-2025 Goals
-- [ ] تسلط بر ساختار داده‌ها در پایتون
-- [ ] طراحی و بالا آوردن اولین پورتفولیو با CSS
-- [ ] مشارکت در پروژه‌های Open Source
-- [ ] سبز نگه داشتن Streak گیت‌هاب!
-
----
-
-### 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshack)
-
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshack&label=Profile%20views&color=0e75b6&style=flat" alt="arshack" />
+  <img src="https://komarev.com/ghpvc/?username=arshack&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" />
+</p>
