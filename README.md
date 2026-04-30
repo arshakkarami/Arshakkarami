@@ -1,6 +1,12 @@
-# 🚀 ARSHACK | DEV
-> **I'm a high school student in Canada interested in computer science.**
-> **Still learning, still building — trying to get better every day.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=200&section=header&text=ARSHACK%20|%20DEV&fontSize=70&animation=fadeIn&fontAlignY=35&desc=HIGH%20SCHOOL%20DEVELOPER%20|%20CANADA%20🇨🇦&descAlignY=55&descSize=20" width="100%" />
+</p>
+
+---
+
+### 💻 About Me
+* 🎓 **I'm a high school student in Canada interested in computer science.**
+* 🌱 **Still learning, still building — trying to get better every day.**
 
 ---
 
@@ -22,8 +28,8 @@
 
 ### 📊 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
