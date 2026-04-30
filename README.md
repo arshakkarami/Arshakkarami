@@ -1,5 +1,4 @@
-<img src="https://skillicons.dev/icons?i= py =8&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 
 # Hi, I'm Arshak 👋
