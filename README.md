@@ -1,59 +1,56 @@
-# Hi, I'm Arshak 👋
+# 🚀 سلام! من آرشاک هستم
 
-I'm a high school student in Canada interested in computer science. I'm still early in my programming journey — learning as I go.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Arshack&fontSize=90&animation=fadeIn" />
+</p>
 
-<br>
-
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-- **Python** — my main language. I use it for small scripts and beginner projects.
-- **HTML** — just starting out. Learning the basics of web pages.
-- **Git & GitHub** — still getting comfortable with version control.
-
-<br>
-
-## Projects
-
-| Project | Description |
-|--------|-------------|
-| [Project Name](YOUR_LINK) | A simple Python calculator |
-| [Project Name](YOUR_LINK) | A text-based guessing game |
-| [Project Name](YOUR_LINK) | A basic to-do list script |
-
-> These are beginner projects. I'm working on getting better.
-
-<br>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=tokyonight&hide_border=true)
-
-<br>
-
-## Goals
-
-- Get comfortable with Python
-- Learn more HTML and CSS
-- Build more projects and put them on GitHub
-- Keep improving — one step at a time
-
-<br>
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshak-karami-a67483282)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br>
+### 🎓 برنامه نویس دبیرستانی | 🇨🇦 ساکن کانادا
+> "در حال یادگیری، در حال ساختن — هر روز کمی بهتر از دیروز."
 
 ---
 
-*Still learning. Always improving.*
+### 💻 درباره من
+من یک دانش‌آموز علاقه‌مند به علوم کامپیوتر هستم که فعلاً روی یادگیری عمیق پایتون و اصول وب تمرکز دارم.
 
+- 🐍 **پایتون:** نوشتن اسکریپت‌های کاربردی و منطق برنامه‌نویسی.
+- 🌐 **وب:** یادگیری HTML و ساختار صفحات.
+- ⚙️ **گیت:** در حال مسلط شدن به دنیای ورژن کنترل.
+
+---
+
+### 🛠️ مهارت‌ها و ابزارها
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📂 پروژه‌های من
+
+| نام پروژه | توضیح کوتاه | تکنولوژی |
+| :--- | :--- | :--- |
+| **Calculator** | ماشین حساب پایتونی | `Python` |
+| **Guess Game** | بازی حدس عدد | `Python` |
+| **To-Do List** | مدیریت تسک‌ها | `Python` |
+
+---
+
+### 📊 وضعیت من در گیت‌هاب
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshack&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshack&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📬 راه‌های ارتباطی
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshack)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshack&label=Profile%20Views&color=blue&style=flat" />
+</p>
