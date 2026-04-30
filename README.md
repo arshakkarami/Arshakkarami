@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/─────────────────%20%24%20ls%20-la%20skills%2F%20─────────────────-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117)
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,rust,go&perline=8&theme=dark"/>
 
 
 
