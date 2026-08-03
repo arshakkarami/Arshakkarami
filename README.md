@@ -1,111 +1,174 @@
+<!--
+  ============================================================
+  ARSHAK KARAMI — GITHUB PROFILE README
+  ============================================================
+  HOW TO USE:
+  1. Create a new repo named EXACTLY your GitHub username
+     (e.g. github.com/ArshakKarami/ArshakKarami) — this makes
+     GitHub render this file on your profile page automatically.
+  2. Replace every "YOUR_USERNAME" below with your real GitHub
+     username (used in stats widgets + typing animation + views counter).
+  3. Replace placeholder links marked <<REPLACE THIS>>.
+  4. Swap out project names/descriptions in the Featured Projects
+     section with your real repos.
+  ============================================================
+-->
+
 <div align="center">
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FBE,100:9D4EDD&height=200&section=header&text=Arshak%20Karami&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20in%20Progress%20%7C%20Canada%20%F0%9F%87%A8%F0%9F%87%A6&descSize=18&descAlignY=58&animation=fadeIn" />
+
+<!--
+  BANNER
+  ------
+  Recommendation: use a slim, dark gradient banner (1500x400px)
+  with your name + tagline, generated for free at:
+    https://banner.capycollab.dev/  OR  https://github.com/Akshit1406/Github-Profile-Banner-Generator
+  Style: dark navy/charcoal background, one accent color (teal or violet),
+  minimal geometric lines or a subtle code-pattern texture, your name in a
+  clean sans-serif (e.g. "Poppins" or "JetBrains Mono"), tagline underneath.
+  Upload the image to your repo (e.g. /assets/banner.png) or to
+  https://imgur.com and paste the raw link below.
+-->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png" alt="Banner" width="100%"/>
+
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=High+School+Student+%F0%9F%8E%93;Beginner+Developer+%F0%9F%92%BB;Learning+Python+%26+Swift;Building+Cool+Things+%F0%9F%9A%80;Based+in+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arshak+Karami;Aspiring+Full-Stack+Developer;Building+Software+%26+Startups;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
+
+<!-- SOCIAL / UTILITY BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Location-Ontario%2C%20Canada-38BDF8?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+</div>
+
 <br/>
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=arshakkarami&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/arshakkarami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshak-karami-a67483282)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshakkarami)
- 
-</div>
----
- 
-<!-- ABOUT ME -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
-### 👾 About Me
- 
-Hi, I'm *Arshak* — a high school student from Canada with a serious interest in Computer Science.
- 
-I'm at the start of my developer journey, building real projects while learning the fundamentals. I care about writing clean code, understanding why things work, and turning ideas into actual programs.
- 
-•⁠  ⁠🎓 High school student passionate about CS
-•⁠  ⁠🌱 Currently learning Python, Swift, and web basics
-•⁠  ⁠🛠️ Building beginner projects to solidify my skills
-•⁠  ⁠🎯 Goal: Study Computer Science at university
-•⁠  ⁠📍 Based in Canada
-<br clear="right"/>
----
- 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<!-- SKILLS -->
+
+## 👋 Introduction
+
+I'm **Arshak Karami**, a self-taught developer based in **Ontario, Canada**, on a mission to become a **Full-Stack Web Developer** and eventually **build my own software products and tech companies**. I love the process of learning how things work under the hood — and then building something real with that knowledge.
+
+<br/>
+
+## 💻 About Me
+
+- 🎓 Currently deepening my skills in **HTML, CSS, JavaScript**, and **Python**
+- 🚀 Long-term goal: become a full-stack developer, then a founder building software companies
+- 🧠 Fascinated by **web development, programming, and AI**
+- 🌱 Big believer in learning in public and shipping projects, not just tutorials
+- ⚡ Fun fact: <!-- <<REPLACE THIS: add a short personal fun fact>> -->
+
+<br/>
+
+## 🚀 Skills
+
 <div align="center">
-### 🛠️ Skills & Tools
- 
-[![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=FFD700)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-7B2FBE?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Swift](https://img.shields.io/badge/Swift-9D4EDD?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![Git](https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-7B2FBE?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Xcode](https://img.shields.io/badge/Xcode-9D4EDD?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
- 
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
----
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<!-- GITHUB STATS -->
+
+<br/>
+
+## 🛠 Technologies & Tools
+
 <div align="center">
-### 📊 GitHub Stats
- 
-<img src="https://github-readme-stats.vercel.app/api?username=arshakkarami&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&icon_color=7B2FBE&text_color=C9B8FF&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshakkarami&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&text_color=C9B8FF" width="40%" alt="Top Languages"/>
-<br/><br/>
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshakkarami&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9D4EDD&fire=7B2FBE&currStreakLabel=C9B8FF" width="50%" alt="GitHub Streak"/>
+
+<!-- Devicon-based icon grid: swap/add icons as your stack grows -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<!--
+  As you learn new tools (React, Node.js, Tailwind, etc.), add more icons here.
+  Full icon list: https://devicon.dev
+-->
+
 </div>
----
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<!-- PROJECTS -->
+
+<br/>
+
+## 📚 Currently Learning
+
 <div align="center">
-### 🚀 Projects
- 
+
+![JavaScript](https://img.shields.io/badge/Next-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Also-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Practicing-Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 </div>
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 [*Jarvis AI Assistant*](https://github.com/arshakkarami) | A Python assistant featuring a chatbot, mood detector, calculator, and hacker simulation mode | ⁠ Python ⁠ |
-| 🐍 [*Python Learning Journey*](https://github.com/arshakkarami) | A growing collection of beginner Python exercises and mini-projects | ⁠ Python ⁠ |
-| 📱 [*Swift Vision*](https://github.com/arshakkarami) | My first Swift repository — exploring iOS development fundamentals | ⁠ Swift ⁠ |
-| 🌐 [*Web Basics*](https://github.com/arshakkarami) | Simple HTML & CSS practice pages built while learning frontend | ⁠ HTML ⁠ ⁠ CSS ⁠ |
- 
----
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<!-- GOALS -->
+
+I'm following a structured path — **HTML → CSS → JavaScript → Python** — with the goal of moving into full frameworks (React, Node.js) once the fundamentals are rock solid.
+
+<br/>
+
+## 📂 Featured Projects
+
+<!--
+  Replace each row below with your real repositories.
+  repo=REPO_NAME must match the exact repository name.
+-->
 <div align="center">
-### 🎯 2025 Goals
- 
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Project One"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Project Two"/>
+</a>
+
 </div>
-⁠ python
-goals = {
-    "languages":  ["Master Python basics", "Build my first Swift app"],
-    "web":        ["Learn JavaScript fundamentals", "Build a personal website"],
-    "CS":         ["Study data structures & algorithms", "Complete CS50"],
-    "career":     ["Apply to CS university programs", "Contribute to open source"]
-}
- ⁠
- 
----
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<!-- CONTACT -->
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-### 📬 Contact
- 
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshak-karami-a67483282)
-[![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshakkarami)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" width="39%"/>
+
 </div>
----
- 
-<!-- FOOTER -->
+
+<br/>
+
+## 🔥 Streak Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:7B2FBE,100:4B0082&height=120&section=footer&text=%22Every%20expert%20was%20once%20a%20beginner.%22&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/<<REPLACE THIS: linkedin handle>>" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://<<REPLACE THIS: portfolio URL>>" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://<<REPLACE THIS: personal website URL>>" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<sub>Thanks for stopping by — this profile is always a work in progress, just like me. 🚀</sub>
 </div>
