@@ -18,7 +18,6 @@
        text muted : #A1A1AA
   ============================================================
 -->
-https://github.com/arshakkarami/NikanEidi
 <div align="center">
 
 <!--
