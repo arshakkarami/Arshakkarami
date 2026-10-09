@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+HTML%2C+CSS%2C+JavaScript%2C+Python;Building+real+portfolio+projects;Based+in+Ontario%2C+Canada" alt="Typing Animation"/>
+
 <!--
   ============================================================
   ARSHAK KARAMI — GITHUB PROFILE (v2: BLACK + NEON PURPLE)
