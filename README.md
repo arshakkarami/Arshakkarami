@@ -1,4 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+HTML%2C+CSS%2C+JavaScript%2C+Python;Building+real+portfolio+projects;Based+in+Ontario%2C+Canada" alt="Typing Animation"/>
+<a href="https://arshakkarami.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/My%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website"/>
+</a>
+
+<a href="https://github.com/arshakkarami/portfolio-website">
+<img src="https://img.shields.io/badge/Portfolio%20Repo-0A0A0F?style=for-the-badge&logo=github&logoColor=C084FC" alt="Portfolio Repo"/>
+</a>
 
 <!--
   ============================================================
